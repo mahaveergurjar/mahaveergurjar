@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **backend, React, Data Structures and Algorithms.**
 
-- 👨‍💻 All of my projects are available at [Mahaveergurjar](mahaveergurjar)
+- 👨‍💻 All of my projects are available at [Mahaveergurjar](https://github.com/mahaveergurjar?tab=repositories)
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
