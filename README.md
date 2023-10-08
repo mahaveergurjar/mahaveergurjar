@@ -1,6 +1,6 @@
 [![@mahaveergurjar's Holopin board](https://holopin.me/mahaveergurjar)](https://holopin.io/@mahaveergurjar)
 <h1 align="center">Hi 👋, I'm Mahaveer Gurjar</h1>
-<h3 align="center">A passionate frontend developer from India and Currently Pursuing Bachelors in Information Technology. As of now I am learning Data Structures and Algorithms and as well as trying out my hands in Linux learning through building projects.</h3>
+<h3 align="center">A passionate frontend developer from India and Currently Pursuing a Bachelor's in Information Technology. As of now, I am learning Data Structures and Algorithms as well as trying out my hands in Linux learning through building projects.</h3>
 <img aling="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76114e6ab9e152d0b423e133bd9233aac7048cfecb20&rid=giphy.gif&ct=g"
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=mahaveergurjar&label=Profile%20views&color=0e75b6&style=flat" alt="mahaveergurjar" /> </p>
