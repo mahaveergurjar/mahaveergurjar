@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **mahaveergurjar55555@gmail.com
+- 📫 How to reach me **alphazeyrox777@gmail.com
 
 
 <h3 align="left">Languages and Tools:</h3>
