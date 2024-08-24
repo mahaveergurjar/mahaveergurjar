@@ -22,7 +22,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,kali,arch,nix,vim,neovim,lua,c,cpp,python,java,git,github,html,css,javascript,nodejs,react,tailwind,express,mysql,mongodb,nextjs,electron)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,kali,arch,nix,vim,neovim,lua,c,cpp,python,java,git,github,html,css,javascript,nodejs,react,tailwind,express,mysql,mongodb,nextjs,electron)
 
 </p>
 
