@@ -3,12 +3,8 @@
 <h1 align="center">Hi 👋, I'm Mahaveer Gurjar</h1>
 <h3 align="center">A passionate full-stack developer from India, currently pursuing a Bachelor's in Information Technology. I specialize in the MERN stack, and I'm also learning Next.js, Electron, Data Structures, and Algorithms while exploring WEB Development by building projects.</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mahaveergurjar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
 <p align="center">
-  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76114e6ab9e152d0b423e133bd9233aac7048cfecb20&rid=giphy.gif&ct=g" alt="Coding" width="400" style="border-radius: 10px;"/>
+  <img src="https://komarev.com/ghpvc/?username=mahaveergurjar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 - 🔭 I’m currently working on **Nextjs and Electron**
