@@ -30,10 +30,13 @@
 
 <h1 align="center">Git Stats</h1>
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mahaveergurjar&show_icons=true&theme=dracula" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahaveergurjar&theme=dracula&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /><br />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahaveergurjar&show_icons=true&theme=dracula" alt="Streak" /> <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=mahaveergurjar&theme=dracula" alt="Trophies">
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=mahaveergurjar&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahaveergurjar&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a><br />
+  <a href="#">
+  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahaveergurjar&theme=blueberry&count_private=true&hide_border=true)</a><br />
+<a href="#">
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=mahaveergurjar&theme=dracula&count_private=true&hide_border=true)</a>
 </p>
 
 ---
