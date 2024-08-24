@@ -36,7 +36,7 @@
   <a href="#">
   ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahaveergurjar&theme=blueberry&count_private=true&hide_border=true)</a><br />
 <a href="#">
- ![Trophies](https://github-profile-trophy.vercel.app/?username=mahaveergurjar&theme=darkhu&count_private=true&hide_border=true) </a>
+ ![Trophies](https://github-profile-trophy.vercel.app/?username=mahaveergurjar&theme=darkhub&count_private=true&hide_border=true) </a>
 
 </p>
 
