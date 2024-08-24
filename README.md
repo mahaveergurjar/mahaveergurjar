@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Mahaveer Gurjar</h1>
 <h3 align="center">A passionate full-stack developer from India, currently pursuing a Bachelor's in Information Technology. I specialize in the MERN stack, and I'm also learning Next.js, Electron, Data Structures, and Algorithms while exploring WEB Development by building projects.</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=mahaveergurjar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
