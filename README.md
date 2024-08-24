@@ -33,10 +33,7 @@
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=mahaveergurjar&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahaveergurjar&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a><br />
-  <a href="#">
-  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahaveergurjar&theme=blueberry&count_private=true&hide_border=true)</a><br />
-<a href="#">
- ![Trophies](https://github-profile-trophy.vercel.app/?username=mahaveergurjar&&row=1&theme=darkhub&count_private=true&hide_border=true) </a>
+  <a href="#">![Trophies](https://github-profile-trophy.vercel.app/?username=mahaveergurjar&&row=1&theme=darkhub&count_private=true&hide_border=true) </a>
 
 </p>
 
