@@ -42,7 +42,7 @@
 
 <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=mahaveergurjar&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
 <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahaveergurjar&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a><br /><br />
-<a href="#">![Trophies](https://github-profile-trophy.vercel.app/?username=mahaveergurjar&theme=darkhub&count_private=true&hide_border=true&column=9) </a>
+<a href="#">![Trophies](https://github-profile-trophy.vercel.app/?username=mahaveergurjar&theme=darkhub&count_private=true&hide_border=true&column=8) </a>
 
 </p>
 
