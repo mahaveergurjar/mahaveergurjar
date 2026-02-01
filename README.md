@@ -40,8 +40,8 @@
 <h1 align="center">Git Stats</h1>
 <p align="center">
 
-<a href="#">![Github stats](https://github-readme-stats-sigma-five.vercel.app/api??username=mahaveergurjar&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-<a href="#">![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mahaveergurjar&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a><br /><br />
+<a href="#">![Github stats](https://github-readme-stats-sigma-five.vercel.app/api??username=mahaveergurjar&theme=tokyonight&count_private=true&hide_border=true&line_height=20)</a>
+<a href="#">![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mahaveergurjar&layout=compact&theme=tokyonight&count_private=true&hide_border=true)</a><br /><br />
 <a href="#">![Trophies](http://trophy.ryglcloud.net/?username=mahaveergurjar&theme=darkhub&count_private=true&hide_border=true&column=10) </a>
 
 </p>
